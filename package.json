@@ -1,0 +1,19 @@
+{
+  "name": "swiggy-coding-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+
+  "scripts": {
+    "test": "mocha \"Magical Arena/Test/\"",
+    "start": "node \"Magical Arena/src/Main.js\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.6.0"
+  }
+}
